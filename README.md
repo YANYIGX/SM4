@@ -147,6 +147,10 @@ SM4/
 | 多线程并行 | 自适应并行（>256KB 自动启用） | 8x |
 | ArrayPool 复用 | 减少内存分配和 GC 压力 | 1.5x |
 
+## 实际应用用
+该用项目是严翼共享加密架构的原生项目，主要用于流加解密。
+严翼共享加密架构介绍 https://www.yanyigx.com/Home/Security
+
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request。
